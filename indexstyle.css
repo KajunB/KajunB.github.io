@@ -1,0 +1,17 @@
+/* fichier ccs style de la page index */
+
+
+body
+{
+	background-color:#BBD3C7;	
+}
+	
+P
+{
+     color: blue;
+}
+.paragraphe5
+{
+	color: white;
+	text-align: center;
+}
